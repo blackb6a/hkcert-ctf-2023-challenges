@@ -20,7 +20,7 @@
 
 ![](img01.png)
 
-附件: [screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip)
+附件: [screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip)
 
 ## Description (en)
 
@@ -34,7 +34,7 @@ Hey Step Bro, I cannot find my screencapture on Windows 11. Help!
 
 ![](img01.png)
 
-Attachment: [screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip)
+Attachment: [screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/screen-capture_c7b2b88a989abb531bde111d0325ea5a.zip)
 
 ## Flag
 

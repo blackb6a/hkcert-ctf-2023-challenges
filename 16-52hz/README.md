@@ -19,7 +19,7 @@
 
 頻率調製，440 兆赫茲。
 
-附件: [52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip)
+附件: [52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip)
 
 ## Description (en)
 
@@ -32,7 +32,7 @@ Get the flag from the I/Q signal recording.
 
 Frequency Modulation; 440 MHz.
 
-Attachment: [52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip)
+Attachment: [52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/52hz_dc866d3052ea3db76f9a5f4089aff8c3.zip)
 
 ## Flag
 

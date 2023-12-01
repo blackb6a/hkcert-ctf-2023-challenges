@@ -18,7 +18,7 @@ Hackforces / Hackforces
 
 http://chal.ctf.pwnable.hk:28134
 
-附件：[hackforces_c9b284d8311d29dad10b20493e56ff9e.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/hackforces_c9b284d8311d29dad10b20493e56ff9e.zip)
+附件：[hackforces_c9b284d8311d29dad10b20493e56ff9e.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/hackforces_c9b284d8311d29dad10b20493e56ff9e.zip)
 
 ## Description (en)
 
@@ -30,7 +30,7 @@ Do you know [Codeforces](http://codeforces.com/)? Well, what you need is to find
 
 http://chal.ctf.pwnable.hk:28134
 
-Attachment: [hackforces_c9b284d8311d29dad10b20493e56ff9e.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/hackforces_c9b284d8311d29dad10b20493e56ff9e.zip)
+Attachment: [hackforces_c9b284d8311d29dad10b20493e56ff9e.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/hackforces_c9b284d8311d29dad10b20493e56ff9e.zip)
 
 ## Flag
 

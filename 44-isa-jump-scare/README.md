@@ -16,7 +16,7 @@ ISA: 始料未及 / ISA Jump Scare
 
 什麼是 ISA: https://hackmd.io/@blackb6a/bauhinia-isa
 
-附件：[isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip)
+附件：[isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip)
 
 **備註：**你可以在[這裡](https://hackmd.io/@blackb6a/hkcert-ctf-2023-i-zh-378c762700aa0175)找到有關這道題目的秘笈。
 
@@ -30,7 +30,7 @@ Web: http://bauhinia-isa-hwuj66.hkcert23.pwnable.hk:28900/?id=5
 
 What is ISA: https://hackmd.io/@blackb6a/bauhinia-isa
 
-Attachment: [isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip)
+Attachment: [isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/isa-jump-scare_9e0b5de4f92acff7b1af96d59cb3503f.zip)
 
 **Note:** There is a guide for this challenge [here](https://hackmd.io/@blackb6a/hkcert-ctf-2023-i-en-a58d115f39feab46).
 

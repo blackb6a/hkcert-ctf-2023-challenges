@@ -23,7 +23,7 @@
 nc chal.ctf.pwnable.hk 28128
 ```
 
-附件：[maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip)
+附件：[maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip)
 
 ## Description (en)
 
@@ -40,7 +40,7 @@ The source code is slightly different. Never mind.
 nc chal.ctf.pwnable.hk 28128
 ```
 
-Attachment: [maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip)
+Attachment: [maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/maybe-someday_b5e4076f38ed2292796e72e560bf1846.zip)
 
 ## Flag
 

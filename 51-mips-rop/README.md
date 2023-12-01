@@ -12,7 +12,7 @@ mips rop / mips rop
 
 呢條應該係最簡單嘅pwn題(好似係
 
-附件：[mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip)
+附件：[mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28151
@@ -22,7 +22,7 @@ nc chal.ctf.pwnable.hk 28151
 
 Someone said x86/amd64 ROP is hard, how about this one?
 
-Attachment: [mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip)
+Attachment: [mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/mips-rop_e2610ec1ddc37812e250b7ac17cadfe6.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28151

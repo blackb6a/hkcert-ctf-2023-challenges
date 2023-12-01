@@ -15,7 +15,7 @@
 
 網頁：http://chal.ctf.pwnable.hk:28107
 
-附件：[secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip)
+附件：[secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip)
 
 ## Description (en)
 
@@ -23,7 +23,7 @@ I wrote a notebook with some juicy secret! Didn't know what's inside then.
 
 Web: http://chal.ctf.pwnable.hk:28107
 
-Attachment: [secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip)
+Attachment: [secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/secret-notebook_7b1907aba402ecdb7ac74b14972cf0a0.zip)
 
 ## Flag
 

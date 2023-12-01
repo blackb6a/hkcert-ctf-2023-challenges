@@ -16,7 +16,7 @@ ISA: 漫步 / ISA Jogger
 
 什麼是 ISA: https://hackmd.io/@blackb6a/bauhinia-isa
 
-附件：[isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip)
+附件：[isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip)
 
 **備註：**你可以讀取`flag.txt`文件以獲得旗幟
 
@@ -28,7 +28,7 @@ Web: http://bauhinia-isa-hwuj66.hkcert23.pwnable.hk:28900/?id=6
 
 What is ISA: https://hackmd.io/@blackb6a/bauhinia-isa
 
-Attachment: [isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip)
+Attachment: [isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/isa-jogger_2f0b6c22aa5f1f87770f205016f44a1a.zip)
 
 **Note:** You can find the flag at the file `flag.txt`
 

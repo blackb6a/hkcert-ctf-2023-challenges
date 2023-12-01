@@ -17,7 +17,7 @@
 
 我實現了 _理想密碼模型_。可是只用它來加密旗子會不會有點太浪費？
 
-附件：[ideal-cipher_d781f11df15309fecad53314983d36c9.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/ideal-cipher_d781f11df15309fecad53314983d36c9.zip)
+附件：[ideal-cipher_d781f11df15309fecad53314983d36c9.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/ideal-cipher_d781f11df15309fecad53314983d36c9.zip)
 
 ## Description (en)
 
@@ -28,7 +28,7 @@
 
 I implemented the _ideal cipher model_. Would it be too wasteful if I am using that to encrypt the flag?
 
-Attachment: [ideal-cipher_d781f11df15309fecad53314983d36c9.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/ideal-cipher_d781f11df15309fecad53314983d36c9.zip)
+Attachment: [ideal-cipher_d781f11df15309fecad53314983d36c9.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/ideal-cipher_d781f11df15309fecad53314983d36c9.zip)
 
 ## Flag
 

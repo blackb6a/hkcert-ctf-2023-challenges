@@ -13,7 +13,7 @@
 農曆新年就來到啦，我呢到有個攢盒，你攞去食啊。
 
 
-附件：[sweet-container_410f9907cae619e54fc8d9f50614762c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/sweet-container_410f9907cae619e54fc8d9f50614762c.zip)
+附件：[sweet-container_410f9907cae619e54fc8d9f50614762c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/sweet-container_410f9907cae619e54fc8d9f50614762c.zip)
 
 ```
 ssh -p 28041 sweetcontainer@sweet-container-orxi62.hkcert23.pwnable.hk
@@ -23,7 +23,7 @@ ssh -p 28041 sweetcontainer@sweet-container-orxi62.hkcert23.pwnable.hk
 
 It will soon be Chinese New Year la. I have a sweet container. You take some and consume ah.
 
-Attachment: [sweet-container_410f9907cae619e54fc8d9f50614762c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/sweet-container_410f9907cae619e54fc8d9f50614762c.zip)
+Attachment: [sweet-container_410f9907cae619e54fc8d9f50614762c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/sweet-container_410f9907cae619e54fc8d9f50614762c.zip)
 
 ```
 ssh -p 28041 sweetcontainer@sweet-container-orxi62.hkcert23.pwnable.hk

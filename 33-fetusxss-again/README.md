@@ -15,7 +15,7 @@
 
 網站: http://fetusxss-b9odzq.hkcert23.pwnable.hk:28133?title=<svg/onload=alert(document.cookie)>
 
-附件: [fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip)
+附件: [fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip)
 
 ## Description (en)
 
@@ -25,7 +25,7 @@ You can inject any html as you like to the title using the `title` parameter in 
 
 Web: http://fetusxss-b9odzq.hkcert23.pwnable.hk:28133?title=<svg/onload=alert(document.cookie)>
 
-Attachment: [fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip)
+Attachment: [fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/fetusxss-again_7b3f16b362bcd7bc3c7e2ba80618ca5b.zip)
 
 ## Flag
 

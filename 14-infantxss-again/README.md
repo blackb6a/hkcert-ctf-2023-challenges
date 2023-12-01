@@ -15,7 +15,7 @@
 
 網站: http://infantxss-xsw7tt.hkcert23.pwnable.hk:28314?payload=alert(document.cookie)
 
-附件: [infantxss-again_fde461af00b9681053c3395d55568bdd.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/infantxss-again_fde461af00b9681053c3395d55568bdd.zip)
+附件: [infantxss-again_fde461af00b9681053c3395d55568bdd.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/infantxss-again_fde461af00b9681053c3395d55568bdd.zip)
 
 ## Description (en)
 
@@ -25,7 +25,7 @@ You can inject any javascript as you like using the `payload` parameter in the q
 
 Web: http://infantxss-xsw7tt.hkcert23.pwnable.hk:28314?payload=alert(document.cookie)
 
-Attachment: [infantxss-again_fde461af00b9681053c3395d55568bdd.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/infantxss-again_fde461af00b9681053c3395d55568bdd.zip)
+Attachment: [infantxss-again_fde461af00b9681053c3395d55568bdd.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/infantxss-again_fde461af00b9681053c3395d55568bdd.zip)
 
 ## Flag
 

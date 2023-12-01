@@ -18,7 +18,7 @@
 
 注意: 你必須完全還原程式 並且 找到一支藏於程式內的旗幟才可以獲得真正能取得分數的旗幟 (請參考`compiler.py` 內的邏輯)。藏於程式內的旗幟的格式是`internal{}`，請不要在比賽平台內提交該旗幟！
 
-附件：[decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip)
+附件：[decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28155
@@ -34,7 +34,7 @@ Let's do a Decompetiton on Python 3.12!
 
 NOTE: You need to fully recover the program AND find the internal flag to be able to get the real flag (you can see the logic in `compiler.py`). The internal flag format is `internal{}`, dont submit that to the platform!
 
-Attachment: [decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip)
+Attachment: [decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-pyhard_d41ee23047e7a3d61ad3b9391744718c.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28155

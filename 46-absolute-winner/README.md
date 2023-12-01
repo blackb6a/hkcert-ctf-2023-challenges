@@ -12,7 +12,7 @@
 
 去年，很多人破解了我的遊戲並竊取了我的錢。 今年，我將是唯一一個獲勝的人！！！！！
 
-附件：[absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip)
+附件：[absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28246
@@ -22,7 +22,7 @@ nc chal.ctf.pwnable.hk 28246
 
 Last year, my game was unfortunately compromised by numerous individuals who exploited it and caused a huge financial loss. However, this year, I am determined to emerge as the sole victor, triumphing over all challengers!
 
-Attachment: [absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip)
+Attachment: [absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/absolute-winner_a7f518aeafd057d1493e70f1e130161c.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28246

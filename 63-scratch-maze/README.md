@@ -14,7 +14,7 @@
 
 網頁: https://scratch.mit.edu/projects/919957145/
 
-Scratch 項目檔案（與網頁版相同）: [scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip)
+Scratch 項目檔案（與網頁版相同）: [scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip)
 
 ## Description (en)
 
@@ -22,7 +22,7 @@ What's more awesome than thousand levels of hell? A thousand levels of maze!
 
 Web: https://scratch.mit.edu/projects/919957145/
 
-Scratch project file (same as web): [scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip)
+Scratch project file (same as web): [scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/scratch-maze_45784362eed7d1580cd87ee5e4814c83.zip)
 
 ## Flag
 

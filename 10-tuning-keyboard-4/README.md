@@ -24,7 +24,7 @@
 
 這場牌局成為了他們友誼中的一個傳奇，他們將永遠記住思賢的壯舉。雖然勝負只是一場遊戲，但這個時刻對他們來說意義非凡。當他們繼續享受著遊戲和友誼時，他們知道這個回憶將伴隨著他們一生。而那盆綠植，也見證著他們的歡笑和友情，在陽光下繼續茁壯生長。
 
-當你仔細閱讀以上的Description時，你發現整段文字根本和題目無關！這裡是題目的附件：[tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip)
+當你仔細閱讀以上的Description時，你發現整段文字根本和題目無關！這裡是題目的附件：[tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip)
 
 ## Description (en)
 
@@ -48,7 +48,7 @@ Donald and Barron, their North-South opponents, had managed to outmaneuver Amy a
 
 But in the world of bridge, wins and losses are just part of the game. The four friends, despite the ups and downs of the hand, knew that the thrill of the competition and the camaraderie they shared were what truly mattered. With a smile, they shuffled the cards for the next hand, ready for whatever challenges the game would bring their way.
 
-After you reading the above lengthy description, you finally realized that it is totally irrelevant to the challenge. Here is the attachment: [tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip)
+After you reading the above lengthy description, you finally realized that it is totally irrelevant to the challenge. Here is the attachment: [tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/tuning-keyboard-4_7d9522a0481cefe3abcd301936051e06.zip)
 
 ## Flag
 

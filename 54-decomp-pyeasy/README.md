@@ -20,7 +20,7 @@
 
 注意程式中有一支內部旗幟，格式是`internal{}`。請不要在平台直接提交該旗幟。
 
-附件: [decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip)
+附件: [decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28154
@@ -38,7 +38,7 @@ To know more about the python bytecode, see https://docs.python.org/3/library/di
 
 Note there is an internal flag with flag format `internal{}`. Please do not submit this directly to the platform.
 
-Attachment: [decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip)
+Attachment: [decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-pyeasy_45b2798f89f2c40e8d05582503610f2f.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28154

@@ -15,7 +15,7 @@
 
 網站: http://babyxss-k7ltgk.hkcert23.pwnable.hk:28232?src=https://pastebin.com/xNRmEBhV
 
-附件: [babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip)
+附件: [babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip)
 
 **備註：**你可以在[這裡](https://hackmd.io/@blackb6a/hkcert-ctf-2023-ii-zh-e2ef72e18599ccdb)找到有關這道題目的秘笈。
 
@@ -27,7 +27,7 @@ You can inject any external javascript from `https://pastebin.com` as you like u
 
 Web: http://babyxss-k7ltgk.hkcert23.pwnable.hk:28232?src=https://pastebin.com/xNRmEBhV
 
-Attachment: [babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip)
+Attachment: [babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/babyxss-again_a576f2579a020c0d546f8fd2acb33318.zip)
 
 **Note:** There is a guide for this challenge [here](https://hackmd.io/@blackb6a/hkcert-ctf-2023-ii-en-4e6150a89a1ff32c).
 

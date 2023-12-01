@@ -12,7 +12,7 @@
 
 每年一度的python沙盒逃脫挑戰！！！
 
-附件：[secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip)
+附件：[secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28145
@@ -22,7 +22,7 @@ nc chal.ctf.pwnable.hk 28145
 
 Annual Python Jail Escape Challenge!!!
 
-Attachment: [secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip)
+Attachment: [secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/secure-python2_d8d989aaa2e1c877fc835afb7fe1f75e.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28145

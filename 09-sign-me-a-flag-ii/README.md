@@ -26,7 +26,7 @@
 nc chal.ctf.pwnable.hk 28009
 ```
 
-附件：[sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip)
+附件：[sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip)
 
 ## Description (en)
 
@@ -46,7 +46,7 @@ No gib flag? No flag!
 nc chal.ctf.pwnable.hk 28009
 ```
 
-Attachment: [sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip)
+Attachment: [sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/sign-me-a-flag-ii_ee9268d1310ede6d37cd4b5eda18457f.zip)
 
 ## Flag
 

@@ -14,7 +14,7 @@
 
 網站: http://chal.ctf.pwnable.hk:28338
 
-附件: [myblog_3754edfdd589036df204692967f724d8.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/myblog_3754edfdd589036df204692967f724d8.zip)
+附件: [myblog_3754edfdd589036df204692967f724d8.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/myblog_3754edfdd589036df204692967f724d8.zip)
 
 ## Description (en)
 
@@ -22,7 +22,7 @@ It is 2023 now and we still need static pages instead of CMS for blogging
 
 Web: http://chal.ctf.pwnable.hk:28338
 
-Attachment: [myblog_3754edfdd589036df204692967f724d8.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/myblog_3754edfdd589036df204692967f724d8.zip)
+Attachment: [myblog_3754edfdd589036df204692967f724d8.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/myblog_3754edfdd589036df204692967f724d8.zip)
 
 ## Flag
 

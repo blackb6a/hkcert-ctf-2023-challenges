@@ -21,7 +21,7 @@
 nc chal.ctf.pwnable.hk 28221
 ```
 
-附件：[cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip)
+附件：[cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip)
 
 ## Description (en)
 
@@ -36,7 +36,7 @@ I implemented a cipher switching service (totally not the one from [TSJ CTF 2022
 nc chal.ctf.pwnable.hk 28221
 ```
 
-Attachment: [cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip)
+Attachment: [cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/cipher-bridging-service_b2d435952d9dd4dd458efe1c599a5c85.zip)
 
 ## Flag
 

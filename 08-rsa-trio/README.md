@@ -20,7 +20,7 @@ RSA 三人組 / RSA Triooo
 nc chal.ctf.pwnable.hk 28108
 ```
 
-附件：[rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip)
+附件：[rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip)
 
 ## Description (en)
 
@@ -34,7 +34,7 @@ Miss the challenges I made? Here comes a remastered version of [RSA Trio](https:
 nc chal.ctf.pwnable.hk 28108
 ```
 
-Attachment: [rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip)
+Attachment: [rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/rsa-trio_c6633be398ad27d740ad8455bc93ecf1.zip)
 
 ## Flag
 

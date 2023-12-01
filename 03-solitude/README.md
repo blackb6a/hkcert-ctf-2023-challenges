@@ -23,7 +23,7 @@
 nc chal.ctf.pwnable.hk 28103
 ```
 
-附件：[solitude_92b66a8882479819f0170a1efa4c8baf.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/solitude_92b66a8882479819f0170a1efa4c8baf.zip)
+附件：[solitude_92b66a8882479819f0170a1efa4c8baf.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/solitude_92b66a8882479819f0170a1efa4c8baf.zip)
 
 ## Description (en)
 
@@ -40,7 +40,7 @@ Yet another implementation of Shamir's Secret Sharing. Of course you don't have 
 nc chal.ctf.pwnable.hk 28103
 ```
 
-Attachment: [solitude_92b66a8882479819f0170a1efa4c8baf.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/solitude_92b66a8882479819f0170a1efa4c8baf.zip)
+Attachment: [solitude_92b66a8882479819f0170a1efa4c8baf.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/solitude_92b66a8882479819f0170a1efa4c8baf.zip)
 
 ## Flag
 

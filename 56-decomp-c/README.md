@@ -20,7 +20,7 @@ GCC 版本: gcc (Debian 12.2.0-14) 12.2.0
 
 如果你想在自己的環境模擬運行，你可以先用`pip`安裝Python 程式碼所需的函式庫，再運行`python compiler keyver.disasm`
 
-附件：[decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip)
+附件：[decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28156
@@ -39,7 +39,7 @@ GCC version: gcc (Debian 12.2.0-14) 12.2.0
 
 If you want to run this locally, you can install all the prerequisite library with `pip`, and run `python compiler keyver.disasm`/
 
-Attachment: [decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip)
+Attachment: [decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/decomp-c_7fd3a84804eeee796995bd3f13b56cc5.zip)
 
 ```
 nc chal.ctf.pwnable.hk 28156

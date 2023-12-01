@@ -21,7 +21,7 @@
 
 http://chal.ctf.pwnable.hk:28231
 
-附件：[bades_bb8b71ab412bcd0a330156417ebcaed1.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/bades_bb8b71ab412bcd0a330156417ebcaed1.zip)
+附件：[bades_bb8b71ab412bcd0a330156417ebcaed1.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/bades_bb8b71ab412bcd0a330156417ebcaed1.zip)
 
 ## Description (en)
 
@@ -36,7 +36,7 @@ DES, published as an official Federal Information Processing Standard in 1977, i
 
 http://chal.ctf.pwnable.hk:28231
 
-Attachment: [bades_bb8b71ab412bcd0a330156417ebcaed1.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/bades_bb8b71ab412bcd0a330156417ebcaed1.zip)
+Attachment: [bades_bb8b71ab412bcd0a330156417ebcaed1.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/bades_bb8b71ab412bcd0a330156417ebcaed1.zip)
 
 ## Flag
 

@@ -20,7 +20,7 @@
 
 網站: http://wishlist-ftxfca.hkcert23.pwnable.hk:28015
 
-附件: [wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip)
+附件: [wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip)
 
 ## Description (en)
 
@@ -34,7 +34,7 @@ Flag format: `hkcert23{[0-9A-Z_]+}`
 
 Web: http://wishlist-ftxfca.hkcert23.pwnable.hk:28015
 
-Attachment: [wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip)
+Attachment: [wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/wishlist_ed7122ac9ea64bbbb4224bb2a942dab4.zip)
 
 ## Flag
 

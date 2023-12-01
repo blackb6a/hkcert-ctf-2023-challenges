@@ -15,7 +15,7 @@
 
 [測試你的 UML 知識！](http://chal.ctf.pwnable.hk:28104)
 
-附件: [puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip)
+附件: [puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip)
 
 ## Description (en)
 
@@ -24,7 +24,7 @@ How about IS majors? UML? Is UML even a markup language?
 
 [Test your UML knowledge!](http://chal.ctf.pwnable.hk:28104)
 
-Attachment: [puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip)
+Attachment: [puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/puml_6426aed6f38a4f0c311f8ecddfecdfa5.zip)
 
 ## Flag
 

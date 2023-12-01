@@ -18,7 +18,7 @@ ST碼 (III) / ST Code (III)
 
 XSS 機器人: http://chal.ctf.pwnable.hk:28213
 
-附件: [stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip)
+附件: [stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip)
 
 ## Description (en)
 
@@ -30,7 +30,7 @@ Web: http://stcode-3983gi.hkcert23.pwnable.hk:28211
 
 XSS Bot: http://chal.ctf.pwnable.hk:28213
 
-Attachment: [stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip)
+Attachment: [stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/stcode3_f63b8dd78c591e0099030a2dcc40bfcd.zip)
 
 ## Flag
 

@@ -19,7 +19,7 @@
 
 http://chal.ctf.pwnable.hk:28061
 
-附件：[loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip)
+附件：[loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip)
 
 ## Description (en)
 
@@ -32,7 +32,7 @@ Collect the keys and unlock the crypt to the flag.
 
 http://chal.ctf.pwnable.hk:28061
 
-Attachment: [loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip](https://github.com/blackb6a/hkcert-ctf-2022-challenges/releases/download/v1.0.0/loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip)
+Attachment: [loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip](https://github.com/blackb6a/hkcert-ctf-2023-challenges/releases/download/v1.0.0/loot-and-scoot_91f788ef9735eb6ba507b61fa313e230.zip)
 
 ## Flag
 
