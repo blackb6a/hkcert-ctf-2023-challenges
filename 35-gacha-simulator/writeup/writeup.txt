@@ -1,0 +1,6 @@
+Solution 1:
+Remove password protection and reverse the 5 star card URL using Decrypt function:
+https://stackoverflow.com/questions/272503/removing-the-password-from-a-vba-project
+
+Solution 2:
+Move around the card entries and draw the cards until you got the 5 star card, but you need to use sniffer like Fiddler to catch web traffic and get the 5 star card URL because the flag is not really readable without accessing the URL

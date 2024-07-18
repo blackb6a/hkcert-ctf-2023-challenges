@@ -1,0 +1,8 @@
+Hi all
+First of all, I would like to express my gratitude to all the individuals who dedicated their time to solving the HKCERT CTF challenges. Thank you for using your intellect and creativity to tackle the tasks. I usually do not write solution scripts for the challenges I have written over the past 14 years, and I believe that if the encryption system I implement has a weakness, it will be solved. In several previous CTFs, we have seen that crypto tasks were solved after several days or even months, while some remained unanswered. So please do not ask me for challenge solution scripts, and be patient. I am as upset as you are when a task remains unsolved. Therefore, if you have any questions or concerns, it is better to be polite and sincere. I am ready for any point or question. Once again, I appreciate your interest in this CTF.
+
+---
+Reference:
+https://arxiv.org/pdf/2011.14163.pdf
+
+Well you just need to try different small and large n and you will see the pattern, don't even bother to read the paper's attack method. If H's range is positive integer, then when n is large enough, Mn and Hn will converge.

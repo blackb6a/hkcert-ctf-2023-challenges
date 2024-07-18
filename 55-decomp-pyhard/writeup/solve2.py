@@ -1,0 +1,13 @@
+# ii = b"internal{c0mpl3xxxxx_py3.12_f14g_ch3ck3r?}"
+bb = b"\xcc\x9f\xe3\xd6\xe2\x9e\xdf\xe3\xd6\x9a\xa7\xd6\xe8\x94\xb5\xef\xcb\x99\xd7\xdb\xb7\x98\xe7\x9c\x99X\x95\xb4\xe6_\xa2\xf0\xe2r\xb7\x80\xb3\x81\x8d\xcdz\x84"
+kk = b"c0mpl3xx"
+
+flag = b""
+for i, x in enumerate(bb):
+    c = kk[i % len(kk)]
+    x -= c
+    x ^= i
+    x %= 256
+    flag += bytes([x])
+
+print(flag)

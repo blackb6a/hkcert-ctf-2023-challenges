@@ -1,0 +1,2 @@
+flag 1:
+http://localhost:8006/?f=flag.php&url=https://www.php.net/cached.php%3Ff%3Dcached.php

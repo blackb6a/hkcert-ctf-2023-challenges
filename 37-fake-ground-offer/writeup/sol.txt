@@ -1,0 +1,10 @@
+gacha 10 times at seed=710*k 
+
+https://stackoverflow.com/a/19303725
+
+-1, This isn't a uniform sampler at all - it is quite biased towards 0 and 1 (see jsfiddle.net/bhrLT/17, which may take a while to compute). Consecutive values are correlated - every 355 values, and even more so every 710, are related. Please use something more carefully thought-out! – 
+spencer nelson
+ May 22, 2014 at 4:43 
+
+
+ Somehow you can find that formula (355/113) in expat passer confusion?

